@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.app{
+  display: flex;
+}
+
+.app-navbar{
+  display: flex;
+  background-color: aquamarine;
+}
+
+.navbar-menu{
+  display: flex;
+  margin: 20px;
+}
+
+.navbar-img{
+  display: flex;
+  margin: 20px;
+}
